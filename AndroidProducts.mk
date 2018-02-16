@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_j7ltespr.mk
+    $(LOCAL_DIR)/omni_coreprimeltespr.mk

@@ -30,12 +30,8 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     charger
 
-PRODUCT_NAME := omni_j7ltespr
-PRODUCT_DEVICE := j7ltespr
+PRODUCT_NAME := omni_coreprimeltespr
+PRODUCT_DEVICE := coreprimeltespr
 PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := SM-J700P
+PRODUCT_MODEL := SM-G360P
 PRODUCT_MANUFACTURER := Samsung
-
-# DTB Work-Around
-PRODUCT_COPY_FILES += \
-    device/samsung/j7ltespr/dt.img:dt.img
